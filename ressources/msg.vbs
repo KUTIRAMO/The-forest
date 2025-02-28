@@ -1,0 +1,1 @@
+MsgBox "alors c'est comment d'etre un fils de pute ethan ?", vbOKOnly + vbCritical, "FUCKED BY KUTORAMO" 
